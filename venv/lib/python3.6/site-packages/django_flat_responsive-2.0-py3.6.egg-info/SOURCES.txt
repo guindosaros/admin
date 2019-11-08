@@ -1,0 +1,12 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+django_flat_responsive.egg-info/PKG-INFO
+django_flat_responsive.egg-info/SOURCES.txt
+django_flat_responsive.egg-info/dependency_links.txt
+django_flat_responsive.egg-info/top_level.txt
+flat_responsive/__init__.py
+flat_responsive/static/admin/css/responsive.css
+flat_responsive/static/admin/css/responsive_rtl.css
+flat_responsive/templates/admin/base_site.html

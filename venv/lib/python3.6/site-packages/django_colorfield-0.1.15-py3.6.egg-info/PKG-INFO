@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: django-colorfield
+Version: 0.1.15
+Summary: A small app providing a colorpicker field for django
+Home-page: https://github.com/jaredly/django-colorfield
+Author: Jared Forsyth
+Author-email: jared@jaredforsyth.com
+License: MIT License
+Download-URL: https://github.com/jaredly/django-colorfield/archive/0.1.15.tar.gz
+Description: A small app providing a colorpicker field for django
+Keywords: django,color,field,admin
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Requires: django (>=1.2)
