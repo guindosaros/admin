@@ -1,6 +1,7 @@
 from email.policy import default
 from django.db import models
 
+# test git des
 
 class Categorie(models.Model):
     nom = models.CharField(max_length=225)
